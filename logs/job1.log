@@ -1,0 +1,7 @@
+:: loading settings :: url = jar:file:/home/vozec/.local/share/mise/installs/python/3.13.2/lib/python3.13/site-packages/pyspark/jars/ivy-2.5.1.jar!/org/apache/ivy/core/settings/ivysettings.xml
++---------------------------+
+|mean_clicks_before_purchase|
++---------------------------+
+|        0.16407425990968388|
++---------------------------+
+

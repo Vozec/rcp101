@@ -1,0 +1,46 @@
+:: loading settings :: url = jar:file:/home/vozec/.local/share/mise/installs/python/3.13.2/lib/python3.13/site-packages/pyspark/jars/ivy-2.5.1.jar!/org/apache/ivy/core/settings/ivysettings.xml
++------+----------+---------+----+
+|region|product_id|nb_clicks|rank|
++------+----------+---------+----+
+|east  |P0075     |14       |1   |
+|east  |P0051     |14       |2   |
+|east  |P0069     |13       |3   |
+|east  |P0042     |13       |4   |
+|east  |P0054     |12       |5   |
+|east  |P0083     |12       |6   |
+|east  |P0086     |11       |7   |
+|east  |P0023     |11       |8   |
+|east  |P0048     |11       |9   |
+|east  |P0034     |11       |10  |
+|north |P0043     |16       |1   |
+|north |P0079     |13       |2   |
+|north |P0037     |13       |3   |
+|north |P0080     |13       |4   |
+|north |P0099     |12       |5   |
+|north |P0014     |12       |6   |
+|north |P0064     |12       |7   |
+|north |P0069     |12       |8   |
+|north |P0004     |11       |9   |
+|north |P0008     |11       |10  |
+|south |P0059     |13       |1   |
+|south |P0094     |13       |2   |
+|south |P0095     |13       |3   |
+|south |P0032     |13       |4   |
+|south |P0026     |12       |5   |
+|south |P0085     |11       |6   |
+|south |P0053     |11       |7   |
+|south |P0062     |11       |8   |
+|south |P0028     |11       |9   |
+|south |P0009     |11       |10  |
+|west  |P0032     |18       |1   |
+|west  |P0055     |15       |2   |
+|west  |P0047     |15       |3   |
+|west  |P0039     |13       |4   |
+|west  |P0095     |13       |5   |
+|west  |P0001     |13       |6   |
+|west  |P0016     |12       |7   |
+|west  |P0024     |12       |8   |
+|west  |P0022     |11       |9   |
+|west  |P0084     |11       |10  |
++------+----------+---------+----+
+

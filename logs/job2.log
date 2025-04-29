@@ -1,0 +1,30 @@
+:: loading settings :: url = jar:file:/home/vozec/.local/share/mise/installs/python/3.13.2/lib/python3.13/site-packages/pyspark/jars/ivy-2.5.1.jar!/org/apache/ivy/core/settings/ivysettings.xml
++----+-----------+---------+
+|hour|category   |nb_clicks|
++----+-----------+---------+
+|0   |clothing   |21       |
+|1   |books      |22       |
+|2   |home       |24       |
+|3   |home       |29       |
+|4   |electronics|26       |
+|5   |books      |28       |
+|6   |clothing   |31       |
+|7   |home       |30       |
+|8   |home       |26       |
+|9   |clothing   |23       |
+|10  |books      |25       |
+|11  |toys       |22       |
+|12  |electronics|26       |
+|13  |toys       |28       |
+|14  |electronics|26       |
+|15  |electronics|24       |
+|16  |electronics|26       |
+|17  |home       |24       |
+|18  |toys       |29       |
+|19  |books      |28       |
+|20  |books      |26       |
+|21  |home       |25       |
+|22  |electronics|30       |
+|23  |toys       |28       |
++----+-----------+---------+
+
